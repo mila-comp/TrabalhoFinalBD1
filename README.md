@@ -2,7 +2,7 @@
 
 ## StreamDB — Banco de Dados de Plataforma de Streaming
 
-Trabalho Final — Banco de Dados I | PUCRS
+Trabalho Final — Banco de Dados I | PUCRS;
 Disciplina ministrada pelo Prof. Lucas Rafael Costella Pessutto
 
 
